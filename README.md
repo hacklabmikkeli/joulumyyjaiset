@@ -19,7 +19,7 @@ We need some volounteers in joulumyyjaiset
             - hobby horses
             - chirstmas cards
 
-2. Chirstmas card DIY (printing) - HereticHorse
+# Chirstmas card DIY (printing) - HereticHorse
     create 2 christmas cards
 
     width and height
